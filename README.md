@@ -1,0 +1,2 @@
+# MageStrike
+Game Design
